@@ -1,4 +1,10 @@
 <?php
+/* Amisha Al azis
+193040122
+Pertemuan 2 Praktikum web - 17 September 2021
+https://github.com/amishaalazis/prakweb2021_oophp_193040122
+mempelajari object oriented
+*/ 
 
 class Coba {
 
